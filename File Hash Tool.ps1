@@ -8,7 +8,6 @@
 # Created: 9 Jul 2019
 # Updated: N/A
 # Description: Creates a file hash and compares it to an expected Hash
-# SHA 256 Hash: F9B6614CFAB5BC01F1F7DE007193311F86C9DF94E657F5E82E4FDA0D97E59A62
 # =============================================================================
 # Function Change Log
 # v1.0 - Creation of script
